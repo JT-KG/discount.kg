@@ -1,0 +1,66 @@
+body {
+  margin: 0px;
+  padding-top: 57px;
+  padding-left: 73px;
+
+}
+
+
+.middle-page {
+  height: 5000px;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.left-panel {
+  position: fixed;
+  top: 57px;
+  left: 0px;
+  bottom: 0px;
+  width: 73px;
+  background-color: rgb(252, 252, 252);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 163px;
+  margin-top: -1px;
+
+}
+
+.left-panel-text {
+  font-family: roboto, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  text-align: center;
+  padding-top: -px;
+  margin-top: -24px;
+}
+
+.home-icon {
+  height: 24px;
+  
+}
+
+
+.explore-icon {
+  height: 24px;
+  
+}
+
+
+.shorts-icon {
+  height: 24px;
+  
+}
+
+
+.subscriptions-icon {
+  height: 24px;
+  
+}
+
+
+.library-icon {
+  height: 24px;
+  
+}
